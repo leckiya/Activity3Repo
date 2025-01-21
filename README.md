@@ -1,1 +1,1 @@
-kucing
+anjing
